@@ -1,0 +1,2 @@
+# codealpha-task3
+RESUME BUILDER USING HTML,CSSAND JS
